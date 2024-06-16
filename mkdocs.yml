@@ -3,6 +3,10 @@
 # mkdocs: https://www.mkdocs.org/user-guide/configuration/
 
 site_name: Docs
+
+#  GitHub 存储库网址
+repo_url: https://github.com/gytxtx/Docs-MkDocs/
+
 theme:
   name: material
   #  favicon: attachment/portrait.png
