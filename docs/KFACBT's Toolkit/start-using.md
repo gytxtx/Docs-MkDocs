@@ -1,6 +1,6 @@
-## 开始使用
+# 开始使用
 
-### 1. 下载 `KFACBT's Toolkit` 的 `Release`
+## 1. 下载 `KFACBT's Toolkit` 的 `Release`
 
 首先，定位到 [GitHub Repo](https://github.com/gytxtx/KFACBT_Toolkit)，点击 `Release`，下载最新的 `Release` 版本。
 
@@ -10,7 +10,7 @@
 
 请忽略这一提示并且允许下载
 
-### 2. 运行
+## 2. 运行
 
 打开你刚刚下载的文件，并且解压到您认为合适的目录中。
 
@@ -20,7 +20,7 @@
 
 工具箱每次打开时会无响应，这个问题暂时没有解决方案，请耐心等待作者给出的解决方案！
 
-### 依赖
+## 依赖
 
 本工具箱依赖 `易语言官方支持库`、`Windows API`、`Windows Media Player`。
 
