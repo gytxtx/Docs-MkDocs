@@ -1,6 +1,6 @@
 # KFACBT's Toolkit
 
-## :mi-outlined md-36|description: 文档
+## 文档
 
 欢迎来到 `KFACBT's Toolkit` 的文档！
 
@@ -10,7 +10,7 @@
 >
 > [GitHub Repo](https://github.com/gytxtx/KFACBT_Toolkit)
 
-## :mi-outlined md-36|home_repair_service: 项目
+## 项目
 
 本项目在 `2022 年 2 月` 使用 **易语言** 开发出第一个版本。
 
@@ -23,7 +23,7 @@
 
 ![Image 1](./images/ck.jpg "Image 1")
 
-## :mi-round md-36|person: 作者
+## 作者
 
 `KFACBT's Toolkit` 的作者是 **KFACBT**。
 
@@ -45,7 +45,7 @@
 
 以上排名不分先后。
 
-## :mi-outlined md-36|text_snippet: 参考
+## 参考
 
 本项目引用了一部分 [精易模块](https://ec.125.la/) 的代码，并且一些功能参考了一些其他开源项目来制作的,具体如下：
 
