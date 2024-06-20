@@ -9,3 +9,13 @@
 [KFACBT's Toolkit](https://github.com/gytxtx/KFACBT_Toolkit/)
 
 基于 [MkDocs-material](https://github.com/squidfunk/mkdocs-material)。
+
+## 预览
+
+[https://gytxtx.github.io/Docs-MkDocs/](https://gytxtx.github.io/Docs-MkDocs/)
+
+[https://gytxtx-docs.pages.dev/](https://gytxtx-docs.pages.dev/)
+
+## 其他
+
+模板来自于 [https://github.com/Jackiexiao/foam-mkdocs-template](https://github.com/Jackiexiao/foam-mkdocs-template)。
