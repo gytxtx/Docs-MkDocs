@@ -17,15 +17,9 @@
 
 此后，该工具箱一直保持更新，直到 `2023 年 8 月` 正式在 **GitHub** 上开源。
 
-在 `2023 年 10 月`，`KFACBT's Toolkit` 被 **蓝云Studio** “借鉴” 到 `蓝云工具箱` 中(没有遵守 `KFACBT's Toolkit` 的 **GPL v3协议**)
-
-本工具箱作者据理力争维护权益，但是 `蓝云Studio` 依旧我行我素，甚至还遭到 “橘儿仔儿呦” 以及其他人的攻击与谩骂
-
-![Image 1](./images/ck.jpg "Image 1")
-
 ## 作者
 
-`KFACBT's Toolkit` 的作者是 **KFACBT**。
+`KFACBT's Toolkit` 的主要开发者是 **KFACBT**。
 
 几乎所有的代码都是由 **KFACBT** 编写的。
 
